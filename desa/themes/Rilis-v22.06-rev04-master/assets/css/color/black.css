@@ -1,0 +1,93 @@
+body{background-color:#212121;color:#dbdbdb;}
+a {text-decoration:none;color:#fff;}
+a:hover {color:#bdbdbd;text-decoration:none;}
+a:focus{outline:none; text-decoration:none !important ;color:#dbdbdb !important;}
+.color-1, .color-1 a{color:#bdbdbd;}
+.color-light{color:#fff;}
+.color-soft{color:#dbdbdb;}
+.bgcolor1{background-color:#313131;color:#fff !important;}
+.bglight{background-color:#919191;}
+.bgcolor2{background-color:#717171;color:#fff !important;}
+.bgcolor3{background-color:#000;}
+.bgsoft{background-color:#6b6b6b;}
+.bgwhite{background-color:#515151 !important;}
+.bggradient1{background: #919191;background: -moz-linear-gradient(90deg, #919191 0%, #313131 100%);background: -webkit-linear-gradient(90deg, #919191 0%, #313131 100%);background: linear-gradient(90deg, #919191 0%, #313131 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#919191",endColorstr="#313131",GradientType=1);}
+.bggradient2{background: #313131;background: -moz-linear-gradient(90deg, #313131 0%, #919191 100%);background: -webkit-linear-gradient(90deg, #313131 0%, #919191 100%);background: linear-gradient(90deg, #313131 0%, #919191 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#313131",endColorstr="#919191",GradientType=1);}
+.bggradient-vertical{background: #919191;background: -moz-linear-gradient(0deg, #919191 0%, #313131 100%);background: -webkit-linear-gradient(0deg, #919191 0%, #313131 100%);background: linear-gradient(0deg, #919191 0%, #313131 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#919191",endColorstr="#313131",GradientType=1);}
+.bggradient-vertical2{background: #313131;background: -moz-linear-gradient(0deg, #313131 0%, rgba(0,106,32,0.6) 50%, #313131 100%);background: -webkit-linear-gradient(0deg, #313131 0%, rgba(0,106,32,0.6) 50%, #313131 100%);background: linear-gradient(0deg, #313131 0%, rgba(0,106,32,0.6) 50%, #313131 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#313131",endColorstr="#313131",GradientType=1);}
+.sekilas-info:after{border-top:#313131 40px solid;border-right:40px solid transparent;}
+.border-1{border-color:#313131 !important;}
+.border-2{border-color:#6b6b6b !important;}
+.border-3{border-color:#818181 !important;}
+.article-grid h2{border-color:#006e1a;}
+.progress-bar {background-color: #212121;}
+.footer-social svg {fill:#818181;}
+.modal-isi .footer-social svg, .sidebar-area .footer-social svg {fill:#a3a3a3;}
+.peta-style .progress-bar, .isi-content .progress-bar{background:#9c9c9c !important;}
+.jamkerja th, .jamkerja td{border:#818181 1px solid;}
+.jamkerja th, .jamkerja tr{background:#000;}
+.jamkerja tr:nth-child(odd) {background-color: #515151;}
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {background-color: #313131;border-color: #313131;}
+.pagination > li > a,.pagination > li > span {color:#313131;}
+.hiasan-logo{border-bottom:#313131 10px solid;}
+.hiasan-logo:before{background:#313131;}
+.hiasan-logo:after{border-left:#313131 20px solid;}
+.bgwhite-transparent{background-color:rgba(0,0,0,0.3);}
+.bggrey{background-color:#111111;}
+.bggrey2{background-color:#222222;}
+.bggrey3{background-color:#818181;}
+.border-grey{border-color:#919191 !important;}
+.penduduk th, .penduduk td{border-color:#919191 !important;}
+.article-grid:hover h2{color:#fff;}
+.stat-bubble:before{border-left:transparent 14px solid;border-right:transparent 14px solid;border-top:#717171 12px solid;}
+.stat-bubble:after{border-left:transparent 13px solid;border-right:transparent 13px solid;border-top:#616161 12px solid;}
+.stat-bubble{background:#616161;}
+.flexitem-6:hover .stat-bubble{background:#000;}
+.flexitem-6:hover .stat-bubble:after{border-top:#919191 12px solid;}
+.mandiri-right .form-control:focus{background:#414141 !important;}
+.peta-style .progress, .isi-content .progress{background:#626262 !important;position:relative;}
+.peta-style .progress-bar span, .isi-content .progress-bar span{background:transparent !important;color: #fff !important;}
+.gallery-page:hover.bggrey2{background-color:#000;}
+.bgorange{background-color:#e44600;}
+.bggreen{background-color:#009d12;}
+.bgyellow{background-color:#e39600;}
+.bgblue{background-color:#00798b;}
+
+.form-control{background:#414141 !important;color:#dbdbdb !important;}
+.form-control:focus, .form-control:hover, .form-control.active{background:#414141;color:#bdbdbd !important;}
+input{color:#bdbdbd !important;}
+.table-striped > tbody > tr:nth-child(odd) {background-color: #212121;}
+.table > thead > tr > th,
+.table > tbody > tr > th,
+.table > tfoot > tr > th,
+.table > thead > tr > td,
+.table > tbody > tr > td,
+.table > tfoot > tr > td {border-top: 1px solid #919191;}
+.table > thead > tr > th {border-bottom: 1px solid #919191;}
+.pagination > li > a,
+.pagination > li > span {color: #bdbdbd;border: 1px solid #515151;}
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {border-color: #515151;}
+.infostyle .box-header h3{color:#fff;}
+.table-bordered, .table-bordered td, .table-bordered th {border-color:#919191;}
+
+.mobile-menu a, .mobile-menu li a, .mobile-menu ul, .mobile-menu li ul, .mobile-menu li.active, .mobile-menu li:focus, .mobile-menu p, .mobile-menu li ul li{color:#dbdbdb;}
+.mobile-menu li{color:#dbdbdb;border:#717171 1px solid;}
+.icon-room-inner{background:#000;border:#616161 1px solid;}
+.header-logo{background:#313131;}
+.flexitem-3-icon:before{-webkit-box-shadow: inset 0px 0px 5px 0px rgba(0,0,0,0.3);-moz-box-shadow: inset 0px 0px 5px 0px rgba(0,0,0,0.3);box-shadow: inset 0px 0px 5px 0px rgba(0,0,0,0.3);background:#414141;border:#515151 1px solid;}
+.menu-icon p{color:#fff;}
+.pagination > li > a, .pagination > li > span, .pagination > li > a:hover, .pagination > li > span:hover {color: #fff;background-color: #212121;border: 1px solid #515151;}
+.highcharts-background{fill: #313131;stroke:#bdbdbd;}
+.highcharts-root text{fill:#dbdbdb !important ;}
+.highcharts-root text {stroke-width: 0;}
+.highcharts-plot-border, .highcharts-plot-background {fill: none;}
+.highcharts-tooltip-box {stroke-width: 1px;fill: rgba(0, 0, 0, 0.85);fill-opacity: 0.85;}
+.highcharts-data-label text {font-size: 11px;font-weight: bold;text-shadow: 0 0 6px #000000, 0 0 3px #000000;fill: #B0B0B3;text-rendering: geometricPrecision;}
+.panel {background-color: transparent;}
+.hid-in-light{display:flex;}
+.hid-in-dark{display:none;}

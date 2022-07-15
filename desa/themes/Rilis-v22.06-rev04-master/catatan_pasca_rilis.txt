@@ -1,0 +1,10 @@
+
+Update Tema Batuah Versi 22.06 (Rev5)
+
+1. Bisa menggunakan logo dengan format gif tanpa harus mengatur file,
+   cukup hanya dengan upload (Baca : README.md).
+2. Perbaikan tampilan Data Statistik.
+3. Perbaikan/peremajaan beberapa bagian minor.
+
+
+Tema Batuah Versi 22.06 support digunakan pada OpenSID 22.06 Premium dan Umum.

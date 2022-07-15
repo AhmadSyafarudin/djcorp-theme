@@ -1,0 +1,32 @@
+body{background-color:#e0e0e0;}
+a {text-decoration:none;color:#6e0000;}
+a:hover {color:#b73b3b;text-decoration:none;}
+.color-1, .color-1 a{color:#6e0000;}
+.color-light{color:#f6ac54;}
+.color-soft{color:#e87979;}
+.bgcolor1{background-color:#6a0000;color:#fff !important;}
+.bglight{background-color:#e59b0b;}
+.bgcolor2{background-color:#b73b3b;color:#fff !important;}
+.bgcolor3{background-color:#aa0000;}
+.bgsoft{background-color:#f2b5b5;}
+.bggradient1{background: #e59b0b;background: -moz-linear-gradient(90deg, #e59b0b 0%, #691111 100%);background: -webkit-linear-gradient(90deg, #e59b0b 0%, #691111 100%);background: linear-gradient(90deg, #e59b0b 0%, #691111 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#e59b0b",endColorstr="#691111",GradientType=1);}
+.bggradient2{background: #6a0000;background: -moz-linear-gradient(90deg, #6a0000 0%, #e59b0b 100%);background: -webkit-linear-gradient(90deg, #6a0000 0%, #e59b0b 100%);background: linear-gradient(90deg, #6a0000 0%, #e59b0b 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#6a0000",endColorstr="#e59b0b",GradientType=1);}
+.bggradient-vertical{background: #e59b0b;background: -moz-linear-gradient(0deg, #e59b0b 0%, #691111 100%);background: -webkit-linear-gradient(0deg, #e59b0b 0%, #691111 100%);background: linear-gradient(0deg, #e59b0b 0%, #691111 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#e59b0b",endColorstr="#691111",GradientType=1);}
+.bggradient-vertical2{background: #6a0000;background: -moz-linear-gradient(0deg, #6a0000 0%, rgba(0,106,32,0.6) 50%, #6a0000 100%);background: -webkit-linear-gradient(0deg, #6a0000 0%, rgba(0,106,32,0.6) 50%, #6a0000 100%);background: linear-gradient(0deg, #6a0000 0%, rgba(0,106,32,0.6) 50%, #6a0000 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#6a0000",endColorstr="#6a0000",GradientType=1);}
+.sekilas-info:after{border-top:#691111 40px solid;border-right:40px solid transparent;}
+.border-1{border-color:#6a0000 !important;}
+.border-2{border-color:#f2b5b5 !important;}
+.border-3{border-color:#f6ac54 !important;}
+.article-grid h2{border-color:#6e0000;}
+.progress-bar {background-color: #691111;}
+.footer-social svg {fill:#f6ac54;}
+.modal-isi .footer-social svg, .sidebar-area .footer-social svg {fill:#b73b3b;}
+.peta-style .progress-bar, .isi-content .progress-bar{background:#ab0000 !important;}
+.jamkerja th, .jamkerja td{border:#b99898 1px solid;}
+.jamkerja th, .jamkerja tr{background:#e8b4b4;}
+.jamkerja tr:nth-child(odd) {background-color: #f8dbc9;}
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {background-color: #6a0000;border-color: #6a0000;}
+.pagination > li > a,.pagination > li > span {color:#6a0000;}
+.hiasan-logo{border-bottom:#6a0000 10px solid;}
+.hiasan-logo:before{background:#6a0000;}
+.hiasan-logo:after{border-left:#6a0000 20px solid;}

@@ -1,0 +1,23 @@
+
+.nav-wrapper{position: relative;float: none;font-family: 'Roboto Regular', Arial;padding:10px 0;z-index:999 !important;}
+.nav-wrapper ul{list-style:none;margin:0;font-size:100%;font-weight:400;text-align:left;line-height:1.2;padding:0;}
+.nav-wrapper ul li{list-style:none;margin:0 15px 0 0;position:relative;display:inline-block;}
+.nav-fullwidth{position:static !important}
+.nav-wrapper ul li a{position:relative;color:#fff;font-size:100%;display:inline-block;height:24px !important;line-height:24px !important;border-bottom:transparent 1px solid;font-weight:500;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;text-decoration:none;-webkit-transition:all .27s cubic-bezier(0,0,.58,1);-moz-transition:all .27s cubic-bezier(0,0,.58,1);-o-transition:all .27s cubic-bezier(0,0,.58,1);-ms-transition:all .27s cubic-bezier(0,0,.58,1);transition:all .27s cubic-bezier(0,0,.58,1);}
+.nav-wrapper ul li a:hover{border-bottom:#bdbdbd 1px solid;}
+.nav-sub{display:none;left:0;padding:0 10px !important;position:absolute;top:100%;width:220px;z-index:900 !important;border-radius:5px;-webkit-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.4);-moz-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.4);box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.4);}
+
+.nav-sub li{display:block;width:100%;margin:0!important;padding:0;}
+.nav-sub li:first-child{padding-top:10px;}
+.nav-sub li:last-child{padding-bottom:10px;}
+.nav-wrapper ul li .nav-sub li a{border:none;display:block;width:100%;height:auto !important;line-height:1.2!important;position:relative;-moz-box-sizing:border-box;box-sizing:border-box;padding:7px 10px;cursor:pointer;text-align:left;color:#fff;font-weight:400;}
+.nav-sub li a:hover,.nav-wrapper ul li .nav-sub li a:hover,.nav-sub li a.active{background:rgba(0,0,0,0.2);padding-left:15px;padding-right:15px;}
+.nav-sub li a:focus,.nav-wrapper ul li .nav-sub li a:focus,.nav-sub li a.active{background:rgba(0,0,0,0.2);padding-left:15px;padding-right:15px;}
+.nav-wrapper > ul > li:last-child .nav-sub,.nav-wrapper li .nav-sub.to-left{left: auto;right: 0;}
+.nav-wrapper li:last-child .nav-sub li ul,.nav-wrapper li .nav-sub li ul.to-left{ left: auto; right: 100%;top: 0;border-left: none;border-right: 1px solid rgba(255,255,255, .07);}
+
+.nav-wrapper ul li a{color:#fff !important;}
+.nav-wrapper ul li a:hover, .nav-wrapper ul li a:focus{color:#fff !important;}
+
+.to-home{position:absolute;top:12%;left:0;bottom:12%;width:50px;background:rgba(0,0,0,0.6);border-radius:5px;}
+.to-home i.fa{margin:0;font-size:160%;color:#fff;opacity:0.6;}

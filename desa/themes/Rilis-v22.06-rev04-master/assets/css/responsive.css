@@ -1,0 +1,175 @@
+@media (max-width: 1366px) {
+}
+
+@media (max-width: 992px) {
+body{background:#fff;}
+.desktop-only, .mainmenu{display:none;}
+.mobile-only{display:block;}
+.header-logo, .homestyle .header-logo{width:100%;display:block;overflow:hidden;position:relative;background:transparent;}
+.header-logo-inner img{height:10vh;margin:0 auto 10px;}
+.header-logo-inner, .homestyle .header-logo-inner{padding:0 15px;height:auto !important;display: flex;justify-content: center !important;align-items: center;text-align:center !important;}
+.header-logo-absolute, .homestyle .header-logo-absolute{display:block;position:relative;overflow:hidden;left:0;right:0;top:0;-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0, 0);-ms-transform: translate3d(0, 0, 0);-o-transform: translate3d(0, 0, 0);transform: translate3d(0, 0, 0);}
+.logo-title-page{text-align:center !important;}
+.headpage-title{text-align:center !important;width:100%;display:inline-block;}
+.logo-title-page .info-other{display:none;}
+.icon-room{position:relative;overflow:hidden;top:0;left:0;right:0;bottom:auto;margin:10px 15px 0;background:#e9e9e9;}
+.logo-title h1, .logo-title-cover h2, .homestyle .logo-title h1, .homestyle .logo-title-cover h2{font-size:150%;letter-spacing:0;margin:0;}
+.icon-room-inner{position:relative;left:0;right:0;padding:10px 5px 2px;border-radius:10px;top:0;-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0, 0);-ms-transform: translate3d(0, 0, 0);-o-transform: translate3d(0, 0, 0);transform: translate3d(0, 0, 0);}
+.body-absolute{padding-top:40px;}
+.headertop-left, .topright-item, .topmenu{height:40px;}
+.topright-item {padding:0 6px;}
+.homestyle .headernav{margin:0;}
+.flex-container-header, .articlehome .flex-container, .headline .flex-container{display:block;}
+.homestyle .header-right{width:calc(100% - 30px);margin:10px 15px;overflow:hidden;}
+.sticky-wrapper{height:auto !important;}
+.sliderstyle{position:relative;overflow:hidden;}
+.title-m{display:none;}
+.top-link .flex-container.mlr-min-5{margin:0 -3px;}
+.toplink-item {width: calc(25% - 6px);border-radius:5px;margin:0 3px 0;}
+.toplink-inner.flexcenter{display:block;text-align:center;}
+.toplink-item p{text-align:center;font-size:13px;}
+.toplink-item svg, .toplink-item img{height:22px;margin:0 10px 5px;opacity:0.6;}
+.toplink-inner{padding:10px 5px;margin:0 auto !important;}
+.leader{width:100%;}
+.aparatur{width:100%;float:left;}
+.image-pimpinan{height:30vh;}
+.welcome-top p{font-size:13px;}
+.welcome-bottom h3, .welcome-bottom p{font-size:90% !important;}
+.aparatur .carouselright-cell {width: 50%;}
+.image-aparatur{height:30vh;}
+.aparatur h3, .aparatur p{font-size:90%;}
+.headmodule h1{font-size:110%;}
+.headmodule i.fa{font-size:120%;}
+.terbaru {position:relative;width: 100%;margin:0 0 10px;}
+.populer {position:relative;width:100%;margin:0 0 10px;}
+.articlehome .flexitem-3-news, .articlehome .flexitem-4-news, .for-category .flexitem-3-news{width:100%;margin:0 0 10px !important;}
+.articlehome .flex-container.mlr-min-5, .for-category .flex-container.mlr-min-5{margin:0 !important;}
+.stat-box.flexcenter{display:block;text-align:center;}
+.statistik-inner{margin:0;}
+.stat-box i.fa{font-size:200%;margin:0 0 5px;}
+.stat-penduduk .flex-container.mlr-min-10{margin-left:-5px;margin-right:-5px;}
+.stat-penduduk .flexitem-6 {width: calc(33.33333333% - 10px);margin:5px 5px;}
+.stat-bubble img{height:40px;margin:0 auto;}
+.stat-penduduk-margin{margin:0 10px;}
+.stat-penduduk h2{font-size:90%;margin:15px 0 0;font-weight:500;line-height:1.1;}
+.stat-penduduk{padding:10px 0 10px;}
+.duet-col .column-2{width:100%;}
+.mandiri-left, .duet-col .mandiri-left{width:100%;}
+.mandiri-right, .duet-col .mandiri-right{width:100%;}
+.mandiri-left img, .duet-col .mandiri-left img{height:auto;width:70%;margin:0 auto;}
+.mandiri-right .plr-20{padding:0;}
+.dapat-pin img{height:30px;}
+.dapat-pin p{color:#fff;}
+.mandiri-right.bgblack-transparent2{background:transparent !important;}
+.mandiri-center, .duet-col .mandiri-center{display:none !important;}
+.gallery-home.ptb-20{padding-top:10px;padding-bottom:10px;}
+.gallery-home.plr-20{padding-left:10px;padding-right:10px;}
+.gallery-home .plr-10{padding-left:5px;padding-right:5px;}
+.gallery-home .mlr-min-10{margin-left:-5px;margin-right:-5px;}
+.gallery-home .image-fotohome{height:auto;padding-bottom:90%;}
+.gallery-home p, .sinergiprogram p{font-size:90%;}
+.sinergi .carouselright-cell {width:33.33333333%;}
+.samewidth {position:relative;display: block !important;grid-gap: 0;}
+.anggaran .flex-container.mlr-min-5, .footer-area .mlr-min-20{margin-left:0;margin-right:0;}
+.anggaran .flexitem-3-default, .footer-area .flexitem-3-default {width: 100%;margin:10px 0 10px;}
+.anggaran .plr-20{padding-left:10px;padding-right:10px;}
+.footer-area .mb-20{margin-bottom:10px;}
+.box-left{width:100%;float:left;}
+.box-right{width:100%;float:left;}
+.box-left .flexitem-2-newsb {width: calc(100% - 10px);}
+.flexitem-2-newsb .relative-hidden.plr-10{padding:0 0;}
+.for-category .flexitem-2-newsb{display:none;}
+.running.mt-10{margin-top:10px !important;}
+.homestyle .running.mt-10{margin-top:5px !important;}
+.gridview{position:relative;display:block;width:100%;float:none;border:none;overflow:hidden;}
+.sidebarright{display:block;width:100%;position:relative;float:left !important;margin:0 auto 0;margin:0;}
+.sidebarright ul{list-style: none;margin:0;padding: 0;position:relative;overflow:hidden;}
+.sidebarright ul{position: relative !important;top:0;}
+.stat-style .box-default .p-15{padding:10px;}
+.stat-isi{margin-right:0;}
+.lapak .flex-container.mlr-min-10, .pemerintah .flex-container.mlr-min-10{margin-left:5px;margin-right:5px;}
+.gallery-style .flex-container.mlr-min-5, .subgallery-style .flex-container.mlr-min-5{margin-left:0;margin-right:0;}
+.lapak .flexitem-4, .pemerintah .flexitem-4 {width: calc(50% - 10px);margin:0 5px 10px;}
+.lapak .relative-hidden.plr-15{padding-left:0;padding-right:0;}
+.pemerintah .relative-hidden.plr-15{padding-left:0;padding-right:0;}
+.lapak .relative-hidden.p-10, .pemerintah .relative-hidden.p-10{padding:5px;}
+.lapak .harga-produk.flexcenter, .lapakhome .harga-produk.flexcenter{display:block;text-align:center;}
+.modal-center-small, .modal-center-medium{width:90%;height:80%;top: 5%;left: 50%;margin:auto;-webkit-transform: translate3d(-50%, 0, 0);-moz-transform: translate3d(-50%, 0, 0);-ms-transform: translate3d(-50%, 0, 0);-o-transform: translate3d(-50%, 0, 0);transform: translate3d(-50%, 0, 0);}
+.lapak .form-control{margin-bottom:5px !important;}
+.pembangunan .flex-container.mlr-min-5, .pembangunan .flex-container.mlr-min-10{margin-left:0;margin-right:0;}
+.flexitem-3pemb {position:relative;width: 100%;margin:0 0 10px;}
+.pembangunan .flexitem-2-default, .gallery-style .flexitem-2-default, .subgallery-style .flexitem-2-default{width:100%;margin:0 0 10px;}
+.listrow-title .info.flexleft{display:block;}
+.listrow-title .info i.fa{display:none;}
+.tanggapan{margin:5px auto 0 30px !important;float:left;display:block;}
+.peta-style .modal-content{left:5%;width:90% !important;top:50px;bottom:100px;}
+.slick_slider, .cycle-slideshow {max-height: 60vh;width:100%;}
+.aparatur-modal.modal-isi .p-15{padding:5px 0;}
+.pemerintah-title h2, .pemerintah-title h3{font-size:90%;}
+.pemerintah-title h3{font-weight:500;}
+.leftpanel-inner{width:85%;}
+.rightpanel-inner{width:85%;}
+.headpage-title-big{font-size:120%;}
+.article-absolute{position:relative;bottom:0;left:0;right:0;padding:15px 10px 0;}
+.article-absolute .dropdown-menu{width:calc(100% - 20px);margin:0 10px;margin-top:0;}
+.lapakhome .flexitem-4{width: calc(50% - 10px);margin:5px 5px;}
+.lapakhome .relative-hidden.p-10{padding:5px;}
+.video .carouselright-cell {width: 100%;}
+.video-box{height:180px;}
+.icon-room, .homestyle .icon-room{display:none;}
+.iconmenu .flexitem-6{width: calc(33.33333333% - 10px);}
+.iconmenu img{height:6vh;}
+.iconmenu .p-10{padding:5px;}
+.no-data-big.flexcenter{display:block;text-align:center;}
+.no-data-big{padding:30px 0 50px;text-align:center;}
+.no-data-big h3{font-size:100%;}
+.no-data-big p{text-align:center;font-weight:500;}
+.no-data-big img{height: 12vh;margin:0 0 10px;}
+.head-center-inner h1{margin-left:10px;margin-right:10px;}
+.no-found-small{margin:0 0;}
+.no-found-small img{width:auto;height:8vh;margin:0 5px 0 0;}
+.copyright{margin-bottom:50px;}
+.menubottom{display:block;}
+.totop{bottom:60px;right:5px;}
+.hiasan-logo{display:block;}
+.header-logo-absolute, .homestyle .header-logo-absolute{padding-bottom:55px !important;}
+.pagination > li > a, .pagination > li > span, .pagination-lg > li > a,
+.pagination-lg > li > span, .pagination-sm > li > a, .pagination-sm > li > span {padding: 5px 7px;}
+.headline-image{width:100%;overflow:hidden;min-height:25vh;height:25vh;}
+.headline-title{width:100%;background:rgba(0,0,0,0.3);margin-top:10px !important;border-radius:5px;}
+.selengkapnya{margin:10px 0;}
+.headline-title h2{font-size:100%;}
+.layarhead-margin, .boxmode .layarhead-margin, .defaultmode .layarhead-margin{margin:0 20px;}
+.layar-margin, .boxmode .layar-margin, .defaultmode .layar-margin{padding-left:20px;padding-right:20px;}
+.mainmenu-margin, .boxmode .mainmenu-margin, .defaultmode .mainmenu-margin{position:relative;margin:0 20px;}
+.toplink-inner, .boxmode .toplink-inner, .defaultmode .toplink-inner{padding:10px 5px;margin:0 auto !important;}
+.flexitem-4-news, .boxmode .flexitem-4-news, .defaultmode .flexitem-4-news{width:100%;margin:0 0 10px !important;}
+.image-pimpinan, .boxmode .image-pimpinan, .defaultmode .image-pimpinan{height:30vh;}
+.image-aparatur, .boxmode .image-aparatur, .defaultmode .image-aparatur{height:30vh;}
+.covid-box h2{font-size:90%;font-weight:500;}
+.covid-box h3{font-size:90%;font-weight:500;}
+.modal-info-popup{height:70%;margin:0 20px;}
+.modal-info-popup h3{font-size:100%;margin:15px 0;}
+.modal-info-popup .modal-contact-inner p{font-size:90%;}
+.box-isian-title{width:30%;}
+.box-isian-isi{width:70%;}
+.box-isian-title, .box-isian-isi{font-size:90%;}
+.column-map{width:100%;float:left;}
+.column-comment-left{width:100%;font-size:90%;text-align:center;}
+.column-comment-right{width:100%;font-size:90%;text-align:center;}
+.column-comment-left img{width:70%;margin:0 auto;display:block;}
+.rightpanel-body .flexitem-4{width: calc(25% - 20px);margin:0 0 10px;}
+.rightpanel-body .flexitem-4 {width: calc(100% - 10px);margin:0 5px 10px;}
+
+.aparatur-modal .flexitem-4 {width: calc(100% - 10px);margin:0 10px 10px;font-size:14px !important;}
+.aparatur-modal .flexitem-4 .relative-hidden{display: flex;justify-content: left;align-items: center;}
+.aparatur-modal .mlr-min-10{margin:0 -5px !important;}
+.aparatur-modal .flexitem-4 .p-10{padding:5px;}
+.aparatur-modal .image-pemerintah{width:30%;padding-bottom:35%;margin:0 10px 0 0;}
+.aparatur-modal .pemerintah-title{text-align:left !important;}
+.aparatur-modal .flexitem-4 .relative-hidden .flexcenter{display:inline-block;font-size:12px;}
+.aparatur-modal .heading-module, .aparatur-modal .fitur-kehadiran{display:none;}
+.headerpage-logo{padding:30px 20px 60px;}
+.headerpage-logo.flexleft{display:block;text-align:center;}
+.headerpage-logo img{width:auto;height:12vh;margin:0 0 10px 0;}
+}

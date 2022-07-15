@@ -1,0 +1,7 @@
+ @font-face {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Arial'), url('Arial.woff') format('woff');
+    }
+	

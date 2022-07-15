@@ -1,0 +1,32 @@
+body{background-color:#e0e0e0;}
+a {text-decoration:none;color:#00346e;}
+a:hover {color:#3b7bb7;text-decoration:none;}
+.color-1, .color-1 a{color:#00346e;}
+.color-light{color:#7fd9ff;}
+.color-soft{color:#79bde8;}
+.bgcolor1{background-color:#003c6a;color:#fff !important;}
+.bglight{background-color:#0be5dd;}
+.bgcolor2{background-color:#3b7bb7;color:#fff !important;}
+.bgcolor3{background-color:#00519d;}
+.bgsoft{background-color:#b5d3f2;}
+.bggradient1{background: #0be5dd;background: -moz-linear-gradient(90deg, #0be5dd 0%, #003c6a 100%);background: -webkit-linear-gradient(90deg, #0be5dd 0%, #003c6a 100%);background: linear-gradient(90deg, #0be5dd 0%, #003c6a 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0be5dd",endColorstr="#003c6a",GradientType=1);}
+.bggradient2{background: #003c6a;background: -moz-linear-gradient(90deg, #003c6a 0%, #0be5dd 100%);background: -webkit-linear-gradient(90deg, #003c6a 0%, #0be5dd 100%);background: linear-gradient(90deg, #003c6a 0%, #0be5dd 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#003c6a",endColorstr="#0be5dd",GradientType=1);}
+.bggradient-vertical{background: #0be5dd;background: -moz-linear-gradient(0deg, #0be5dd 0%, #003c6a 100%);background: -webkit-linear-gradient(0deg, #0be5dd 0%, #003c6a 100%);background: linear-gradient(0deg, #0be5dd 0%, #003c6a 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0be5dd",endColorstr="#003c6a",GradientType=1);}
+.bggradient-vertical2{background: #003c6a;background: -moz-linear-gradient(0deg, #003c6a 0%, rgba(0,60,106,0.6) 50%, #003c6a 100%);background: -webkit-linear-gradient(0deg, #003c6a 0%, rgba(0,60,106,0.6) 50%, #003c6a 100%);background: linear-gradient(0deg, #003c6a 0%, rgba(0,60,106,0.6) 50%, #003c6a 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#003c6a",endColorstr="#003c6a",GradientType=1);}
+.sekilas-info:after{border-top:#003c6a 40px solid;border-right:40px solid transparent;}
+.border-1{border-color:#003c6a !important;}
+.border-2{border-color:#b5d3f2 !important;}
+.border-3{border-color:#7fd9ff !important;}
+.article-grid h2{border-color:#00346e;}
+.progress-bar {background-color: #003c6a;}
+.footer-social svg {fill:#7fd9ff;}
+.modal-isi .footer-social svg, .sidebar-area .footer-social svg {fill:#3b7bb7;}
+.peta-style .progress-bar, .isi-content .progress-bar{background:#009d12 !important;}
+.jamkerja th, .jamkerja td{border:#98a8b9 1px solid;}
+.jamkerja th, .jamkerja tr{background:#b4d5e8;}
+.jamkerja tr:nth-child(odd) {background-color: #c9eaf8;}
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {background-color: #003c6a;border-color: #003c6a;}
+.pagination > li > a,.pagination > li > span {color:#003c6a;}
+.hiasan-logo{border-bottom:#003c6a 10px solid;}
+.hiasan-logo:before{background:#003c6a;}
+.hiasan-logo:after{border-left:#003c6a 20px solid;}
