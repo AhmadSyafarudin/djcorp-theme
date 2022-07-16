@@ -12,21 +12,47 @@
 /* Header */
 
 .header-bottom {
-    height: 400px;
+    height: 600px;
     padding-top: 0;
 }
 
 .header-bottom .container {
     background-image: linear-gradient(to right, #0d32a0, rgba(0, 0, 0, 0));
-    height: 400px;
+    height: 600px;
     display: flex;
     align-items: center;
     padding-left: 10%;
     color: white;
 }
 
+.header-bottom .container .menu-header {
+    margin-top: 40px;
+}
+
+.header-bottom .container .menu-header span {
+    background-color: #023E8A;
+    box-shadow: 2px 2px 3px 1px rgba(255, 255, 255, 0.712);
+    border: 1px solid white;
+    padding: 8px;
+    border-radius: 4px;
+    margin-right: 1%;
+}
+
+.header-bottom .container .menu-header span:hover {
+    box-shadow: 2px 2px 2px rgba(255, 255, 255, 0.712);
+}
+
+.header-bottom .container .menu-header span:active {
+    box-shadow: 2px 2px 1px rgba(255, 255, 255, 0.281);
+    background-color: whitesmoke;
+}
+
 .header-bottom .container a .brand-name {
     color: white;
+}
+
+.brand-title {
+    font-size: 50px;
 }
 
 
@@ -77,12 +103,15 @@
     box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.4);
     border-radius: 5px;
     justify-content: space-around;
-    padding: 80px;
+    padding: 5%;
     box-sizing: border-box;
+    flex-wrap: wrap;
+    background-color: white;
 }
 
 .menu-sv div {
-    width: 200px;
-    height: 200px;
-    background-color: aqua;
+    width: 300px;
+    height: 300px;
+    background-color: salmon;
+    margin: 1%;
 }
