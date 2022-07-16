@@ -22,9 +22,9 @@ $config['smtp_user']      = '';      // SMTP Username.
 $config['smtp_pass']      = '';      // SMTP Password.
 $config['smtp_port']      = '';      // SMTP Port."
 
-$config['DeNatra'] = "DB03E7D7BE90";
+// $config['DeNatra'] = "DB03E7D7BE90";
 $config['token_batuah'] = 'a35bb3577435b1afcb0183c0cf9d36f9b577e719aeae818e00e533f880ae48b9';
-$config['kode_kota'] =1009;
+$config['kode_kota'] = 1009;
 $config['fbadmin'] = 1117950751;
 $config['fbappid'] = 147912828718;
 $config['menu'] = true;

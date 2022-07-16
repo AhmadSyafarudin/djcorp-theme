@@ -9019,6 +9019,8 @@ footer.main-footer {
 .has-background-img {
   overflow: hidden;
   position: relative;
+  height: 300px;
+  margin-top: 40px;
 }
 
 .background-img {
