@@ -23,8 +23,6 @@
     </div>
   <?php endif ?>
 
-  <?php $this->load->view($folder_themes .'/partials/newsticker') ?>
-
   <section class="menu-sv">
    <div class="dashboard-sv">Dashboard</div>
    <div class="panel-sv">Panel</div>
