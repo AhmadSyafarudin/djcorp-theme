@@ -1,0 +1,88 @@
+/* NAVBAR */
+
+.header-top {
+    height: 80px;
+}
+
+.header-top .header-top-left .button-s-menu {
+    height: 74px;
+}
+
+
+/* Header */
+
+.header-bottom {
+    height: 400px;
+    padding-top: 0;
+}
+
+.header-bottom .container {
+    background-image: linear-gradient(to right, #0d32a0, rgba(0, 0, 0, 0));
+    height: 400px;
+    display: flex;
+    align-items: center;
+    padding-left: 10%;
+    color: white;
+}
+
+.header-bottom .container a .brand-name {
+    color: white;
+}
+
+
+/* main nav */
+
+.main-nav {
+    padding: 10px;
+    box-sizing: border-box;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.main-nav-inner {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+}
+
+
+/* hapus script navigation berikut jika ingin menampilkan main navigasi */
+
+.navigation {
+    display: none;
+}
+
+
+/* search */
+
+.search {
+    background-color: white;
+    border: 2px solid white;
+    color: #6E6893;
+    border-radius: 7px;
+    display: flex;
+}
+
+.search input {
+    height: 30px;
+}
+
+
+/* menu smartvillage */
+
+.menu-sv {
+    width: 100%;
+    display: flex;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.4);
+    border-radius: 5px;
+    justify-content: space-around;
+    padding: 80px;
+    box-sizing: border-box;
+}
+
+.menu-sv div {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+}

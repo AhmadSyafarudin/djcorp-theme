@@ -10,8 +10,8 @@
 $db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'root';
 $db['default']['password'] = '';
-$db['default']['port']     = 3306;
-$db['default']['database'] = 'desa';
+$db['default']['port']     = 80;
+$db['default']['database'] = 'opensid-dev';
 
 /*
 | Untuk setting koneksi database 'Strict Mode'
